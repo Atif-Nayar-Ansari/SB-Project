@@ -7,7 +7,8 @@ public class MyController {
 	
 	public void fun1() {
 		
-		int i = 10; 
+		int i = 10;
+		String s = "atif";
 	}
 
 }
