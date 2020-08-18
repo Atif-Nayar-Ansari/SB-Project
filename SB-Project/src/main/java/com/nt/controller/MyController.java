@@ -9,7 +9,7 @@ public class MyController {
 
 		
 		String s = " developer atif";
-		System.out.println("dev check");
+		System.out.println("team check");
 	}
 
 }
