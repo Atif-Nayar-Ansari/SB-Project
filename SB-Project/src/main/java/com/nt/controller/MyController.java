@@ -9,6 +9,7 @@ public class MyController {
 
 		
 		String s = " developer atif";
+		System.out.println("atif");
 	}
 
 }
