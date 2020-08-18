@@ -7,7 +7,7 @@ public class MyController {
 	
 	public void fun1() {
 
-		String s = "yy";
+		String s = "xx";
 	}
 
 }
