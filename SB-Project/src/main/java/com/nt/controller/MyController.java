@@ -11,6 +11,7 @@ public class MyController {
 		String s = "atif";
 		char ch = 'f';
 		char ch2 = 'k';
+		char ch3 = 'o';
 	}
 
 }
