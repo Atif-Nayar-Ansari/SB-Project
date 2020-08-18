@@ -12,6 +12,7 @@ public class MyController {
 		char ch = 'f';
 		char ch2 = 'k';
 		char ch3 = 'o';
+		char ch4 = 'p';
 	}
 
 }
