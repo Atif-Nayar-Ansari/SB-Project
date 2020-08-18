@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.RestController;
 public class MyController {
 	
 	public void fun1() {
-		
-		String s = "D-rocket";
+
+		String s = "T-rocket";
 	}
 
 }
