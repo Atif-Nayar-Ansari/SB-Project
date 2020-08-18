@@ -10,6 +10,7 @@ public class MyController {
 		int i = 10;
 		String s = "atif";
 		char ch = 'f';
+		char ch2 = 'k';
 	}
 
 }
