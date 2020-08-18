@@ -7,7 +7,7 @@ public class MyController {
 	
 	public void fun1() {
 
-		String s = "Team lead changes again";
+		String s = "T";
 	}
 
 }
