@@ -7,7 +7,8 @@ public class MyController {
 	
 	public void fun1() {
 
-		String s = "uu";
+		
+		String s = "developer atif";
 	}
 
 }
