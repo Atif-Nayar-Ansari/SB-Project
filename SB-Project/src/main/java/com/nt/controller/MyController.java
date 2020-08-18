@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class MyController {
 	
 	public void fun1() {
-		String s = "ioi";
+		String s = "TeamLead";
 		
 	}
 
