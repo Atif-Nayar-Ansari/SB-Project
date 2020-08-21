@@ -9,8 +9,7 @@ public class MyController {
 
 		
 		String k = " developer atif";
-		System.out.println("102");
-		System.out.println("new line by Team Lead");
+		System.out.println("10dsssd2");
 	}
-   // hi there added by team lead
+
 }
