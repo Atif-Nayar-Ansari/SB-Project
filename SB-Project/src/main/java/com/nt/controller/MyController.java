@@ -8,7 +8,7 @@ public class MyController {
 	public void fun12() {
 
 		
-		String s = " developer atif";
+		String k = " developer atif";
 		System.out.println("102");
 		System.out.println("new line by Team Lead");
 	}
