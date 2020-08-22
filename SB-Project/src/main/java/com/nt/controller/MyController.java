@@ -5,11 +5,11 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class MyController {
 	
-	public void fun12() {
+	public void fun() {
 
 		
 		String k = " developer atif";
-		System.out.println("10dsssd2");
+		System.out.println("102");
 	}
 
 }
